@@ -1,4 +1,4 @@
-# vue-ts
+# Vue.js + TypeScript 완벽 가이드
 
 ## Project setup
 ```
